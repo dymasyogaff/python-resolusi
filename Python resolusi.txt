@@ -1,0 +1,58 @@
+📌 Level 1: Pemula (Minggu 1-4)
+1. Pengenalan Python & Dasar-dasar
+
+- Instalasi Python & IDE
+- Variabel & Tipe Data
+- Operator Aritmatika & Logika
+- Input & Output
+
+2. Struktur Data & Control Flow
+
+- List, Tuple, Dictionary, Set
+- Looping (for, while)
+- Conditional (if-else)
+
+3. Fungsi & Modularisasi
+
+-Membuat fungsi sendiri
+-Lambda function
+-Import library & modul
+
+4. Pemrograman Berbasis File
+
+- Membaca & menulis file (txt, csv, json)
+- Exception Handling
+
+📌 Level 2: Menengah (Minggu 5-8)
+1. OOP (Object-Oriented Programming)
+
+- Class & Object
+- Inheritance, Polymorphism, Encapsulation
+
+2. Manipulasi Data & Visualisasi
+
+- Pandas & Numpy
+- Matplotlib & Seaborn
+
+3. Web Scraping & API
+
+- Requests & BeautifulSoup
+- Mengakses API dengan Python
+
+4. Database & Framework Web
+
+- SQL (SQLite, MySQL)
+- Flask atau Django
+
+📌 Level 3: Lanjutan (Minggu 9-12)
+
+1. Machine Learning Dasar
+
+- Pengenalan Scikit-learn
+- Model Regresi & Klasifikasi
+
+2. Mengerjakan Mini Project
+
+- Contoh: Web sederhana, chatbot, atau aplikasi analisis data
+
+💡 Target Akhir: Bisa membuat proyek nyata dengan Python! 🚀
