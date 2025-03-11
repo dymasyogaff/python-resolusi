@@ -53,6 +53,6 @@
 
 2. Mengerjakan Mini Project
 
-- Contoh: Web sederhana, chatbot, atau aplikasi analisis data
+- Contoh: Membuat Dashboard Data Analyst Lengkap
 
 💡 Target Akhir: Bisa membuat proyek nyata dengan Python! 🚀
